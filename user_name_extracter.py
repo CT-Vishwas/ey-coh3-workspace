@@ -7,3 +7,4 @@ if(email.find("@") != -1 and email.count('@') <= 1 and len(email[:email.find("@"
     print(f"The username is {email[:email.find("@")]}") 
 else:
     print(f"{email} is INVALID")
+
