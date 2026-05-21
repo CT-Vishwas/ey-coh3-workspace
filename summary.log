@@ -1,0 +1,16 @@
+
+File Name: data.csv
+--------------------------------------------------
+num_of_chars:78
+num_of_vowels:22
+num_of_punctuation:10
+num_of_lines:4
+num_of_words:4
+
+File Name: users_filter.py
+--------------------------------------------------
+num_of_chars:856
+num_of_vowels:160
+num_of_punctuation:237
+num_of_lines:41
+num_of_words:106

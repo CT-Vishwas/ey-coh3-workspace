@@ -3,7 +3,7 @@
 # from simple_interestv4 import si
 from simple_interestv4 import si as s
 # Constants
-
+VLC = "aeiou"
 # Function Definitions
 def main():
     p = 100000
